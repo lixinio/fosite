@@ -29,7 +29,7 @@ import (
 	"context"
 )
 
-const MinParameterEntropy = 8
+const MinParameterEntropy = 6
 
 type TokenType string
 
